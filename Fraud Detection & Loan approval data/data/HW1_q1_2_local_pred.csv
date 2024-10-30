@@ -1,0 +1,5 @@
+trans_amount,avail_credit,account_age,is_Client Expenses,is_Office Supplies,is_Payroll,is_Rent,is_Utilities,is_Vendor Payments,"is_Agriculture, Forestry, And Fishing",is_Construction,"is_Finance, Insurance, And Real Estate",is_Retail Trade,is_Wholesale Trade,metro_encoded,income_encoded
+583.49,20910.25,358,0,1,0,0,0,0,0,0,0,1,0,1688,3
+1502.13,19527.3,536,0,1,0,0,0,0,0,0,0,0,1,1688,1
+573.85,10850.82,472,0,0,1,0,0,0,1,0,0,0,0,1964,2
+1403.84,2323.37,10,0,1,0,0,0,0,0,1,0,0,0,1688,1
